@@ -1,0 +1,9 @@
+D:\Программирование\PersonageJump\PersonageJump\bin\Debug\PersonageJump.exe.config
+D:\Программирование\PersonageJump\PersonageJump\bin\Debug\PersonageJump.exe
+D:\Программирование\PersonageJump\PersonageJump\bin\Debug\PersonageJump.pdb
+D:\Программирование\PersonageJump\PersonageJump\obj\Debug\PersonageJump.csprojResolveAssemblyReference.cache
+D:\Программирование\PersonageJump\PersonageJump\obj\Debug\PersonageJump.Form1.resources
+D:\Программирование\PersonageJump\PersonageJump\obj\Debug\PersonageJump.Properties.Resources.resources
+D:\Программирование\PersonageJump\PersonageJump\obj\Debug\PersonageJump.csproj.GenerateResource.Cache
+D:\Программирование\PersonageJump\PersonageJump\obj\Debug\PersonageJump.exe
+D:\Программирование\PersonageJump\PersonageJump\obj\Debug\PersonageJump.pdb
