@@ -7,3 +7,12 @@ D:\Программирование\PersonageJump\PersonageJump\obj\Debug\Person
 D:\Программирование\PersonageJump\PersonageJump\obj\Debug\PersonageJump.csproj.GenerateResource.Cache
 D:\Программирование\PersonageJump\PersonageJump\obj\Debug\PersonageJump.exe
 D:\Программирование\PersonageJump\PersonageJump\obj\Debug\PersonageJump.pdb
+D:\GitHub\SDforBeginers\PersonageJump\bin\Debug\PersonageJump.exe.config
+D:\GitHub\SDforBeginers\PersonageJump\obj\Debug\PersonageJump.exe
+D:\GitHub\SDforBeginers\PersonageJump\obj\Debug\PersonageJump.pdb
+D:\GitHub\SDforBeginers\PersonageJump\bin\Debug\PersonageJump.exe
+D:\GitHub\SDforBeginers\PersonageJump\bin\Debug\PersonageJump.pdb
+D:\GitHub\SDforBeginers\PersonageJump\obj\Debug\PersonageJump.csprojResolveAssemblyReference.cache
+D:\GitHub\SDforBeginers\PersonageJump\obj\Debug\PersonageJump.Form1.resources
+D:\GitHub\SDforBeginers\PersonageJump\obj\Debug\PersonageJump.Properties.Resources.resources
+D:\GitHub\SDforBeginers\PersonageJump\obj\Debug\PersonageJump.csproj.GenerateResource.Cache

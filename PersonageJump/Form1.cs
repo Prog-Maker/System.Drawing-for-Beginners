@@ -30,7 +30,7 @@ namespace PersonageJump
 
             Size = new Size(600, 600);
 
-            rect = new Rect() { Height = 100, Width = 80, Position = new PointF(200, 100) };
+            rect = new Rect() { Height = 80, Width = 80, Position = new PointF(200, 100) };
 
             Application.Idle += delegate { Invalidate(); };
         }
@@ -192,7 +192,7 @@ namespace PersonageJump
 
         public RigidBody()
         {
-            Spring = 0.1f;
+            Spring = 0.8f;
             Mass = 1;
             Gravity = true;
         }
@@ -252,7 +252,7 @@ namespace PersonageJump
 
         public void Draw(Graphics gr)
         {
-            gr.FillRectangle(Brushes.Black, Position.X - Width / 2, Position.Y - Height / 2, Width, Height);
+            gr.FillEllipse(Brushes.Black, Position.X - Width / 2, Position.Y - Height / 2, Width, Height);
         }
     }
 }
